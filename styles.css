@@ -102,3 +102,7 @@ h1{
 small{
     color: gray;
 }
+ul{
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
