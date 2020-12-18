@@ -131,3 +131,10 @@ hr{
 footer{
     margin-bottom: 48px;
 }
+.div-footer{
+    margin-left: -12px;
+    margin-right: -12px;
+    
+    display: flex;
+    justify-content: space-around;
+}
