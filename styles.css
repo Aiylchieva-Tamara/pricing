@@ -87,3 +87,7 @@ h1{
     padding-right: 16px;
     background-color: rgba(0, 0, 0, 0.03);
 }
+.clo h4{
+    margin: 0;
+    font-size: 24px;
+}
