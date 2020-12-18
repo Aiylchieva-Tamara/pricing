@@ -153,3 +153,9 @@ footer{
     padding-left: 12px;
     padding-right: 12px;
 }
+.div-footer-2 h5{
+    margin: 0;
+    margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: 500;
+}
