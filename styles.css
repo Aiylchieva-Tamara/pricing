@@ -15,3 +15,7 @@ header{
 nav{
     margin-right: 16px;
 }
+a{
+    color: black;
+    padding: 8px;
+}
