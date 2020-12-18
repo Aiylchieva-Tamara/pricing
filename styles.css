@@ -60,3 +60,11 @@ h1{
     margin: 0;
     margin-bottom: 8px;
 }
+.leader{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-left: -12px;
+    margin-right: -12px;
+    margin-bottom: 16px;
+}
