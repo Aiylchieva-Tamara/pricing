@@ -120,3 +120,7 @@ ul li{
     background-color: white;
     border-radius: 5px;
 }
+.button-2:hover{
+    color: white;
+    background-color: blue;
+}
