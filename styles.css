@@ -138,3 +138,9 @@ footer{
     display: flex;
     justify-content: space-around;
 }
+.div-footer-1{
+    display: flex;
+    flex-direction: column;
+    padding-left: 12px;
+    padding-right: 12px;
+}
