@@ -94,3 +94,8 @@ h1{
 .clo2{
     padding: 16px;
 }
+.clo2 h1{
+    margin: 0;
+    margin-bottom: 8px;
+    text-size-adjust: 100%;
+}
